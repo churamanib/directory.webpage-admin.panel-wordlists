@@ -1,7 +1,8 @@
 # directory-wordlists
 
-downloads all Wordlists from github my account 
+download all my github wordlists
+----
 
 ```
-ekocnceokn
+git clone https://github.com/churamanib/directory.webpage-admin.panel-wordlists.git
 ```
